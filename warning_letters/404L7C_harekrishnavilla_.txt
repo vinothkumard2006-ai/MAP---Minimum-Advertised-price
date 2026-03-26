@@ -1,0 +1,27 @@
+
+Date: 2026-02-25
+
+Subject: Price Violation Warning – LPP Policy
+
+Dear harekrishnavilla®,
+
+We have identified a pricing violation for the following product:
+
+SKU              : 404L7C
+Marketplace      : Snapdeal
+Region           : UK
+Advertised Price : 39149.8436966
+LPP Price        : 39660.296
+Category         : Inkjet
+
+Your advertised price is lower than the allowed LPP price.
+This is a violation of our pricing policy.
+
+Please correct the advertised price within 24 hours of receiving this notice.
+
+Failure to comply within 24 hours may result in listening suspension or further action as per policy.
+
+If you believe this notice was issued in error, please contact us immediately.
+
+Regards,
+MAP Compliance Team

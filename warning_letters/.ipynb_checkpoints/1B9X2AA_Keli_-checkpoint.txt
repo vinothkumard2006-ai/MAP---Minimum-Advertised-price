@@ -1,0 +1,27 @@
+
+Date: 2026-02-25
+
+Subject: Price Violation Warning – LPP Policy
+
+Dear Keli®,
+
+We have identified a pricing violation for the following product:
+
+SKU              : 1B9X2AA
+Marketplace      : Amazon
+Region           : UK
+Advertised Price : 27973.492871799997
+LPP Price        : 34350.784
+Category         : Monitor
+
+Your advertised price is lower than the allowed LPP price.
+This is a violation of our pricing policy.
+
+Please correct the advertised price within 24 hours of receiving this notice.
+
+Failure to comply within 24 hours may result in listening suspension or further action as per policy.
+
+If you believe this notice was issued in error, please contact us immediately.
+
+Regards,
+MAP Compliance Team

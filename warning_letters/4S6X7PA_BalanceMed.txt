@@ -1,0 +1,27 @@
+
+Date: 2026-02-25
+
+Subject: Price Violation Warning – LPP Policy
+
+Dear BalanceMed,
+
+We have identified a pricing violation for the following product:
+
+SKU              : 4S6X7PA
+Marketplace      : Snapdeal
+Region           : USA
+Advertised Price : 1641.06
+LPP Price        : 1917.6850000000002
+Category         : Ink
+
+Your advertised price is lower than the allowed LPP price.
+This is a violation of our pricing policy.
+
+Please correct the advertised price within 24 hours of receiving this notice.
+
+Failure to comply within 24 hours may result in listening suspension or further action as per policy.
+
+If you believe this notice was issued in error, please contact us immediately.
+
+Regards,
+MAP Compliance Team
